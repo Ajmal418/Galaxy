@@ -90,7 +90,7 @@ justify-content: space-between;
 .banner {
 background-repeat: no-repeat;
 background-size: cover;
-background-image:url('/images/galaxy.jpg');
+background-image:url('images/galaxy.jpg');
 width: 100%;
 aspect-ratio: 8/3;
 object-fit: contain;
@@ -149,13 +149,13 @@ cursor: pointer;
 
 }
 .venus{
-background-image: url('/images/venus.jpg');
+background-image: url('images/venus.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 cursor: pointer;
 }
 .uranus{
-background-image: url('/images/Uranus.jpg');
+background-image: url('images/Uranus.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 cursor: pointer;
